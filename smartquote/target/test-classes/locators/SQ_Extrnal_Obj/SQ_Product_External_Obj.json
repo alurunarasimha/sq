@@ -1,0 +1,15 @@
+{
+	"ProductDescription": "css:=:#pdtDesc",
+	"Search_Btn": "css:=:#ext-gen137",
+	"Product_Num_checkbox": "xpath:=://div/parent::td/parent::tr/td/div[contains(@class,'x-grid3-col-checker')]",
+	"RBP_Discount": "css:=:#allRBP",
+	"prdouct_setall": "xpath:=://button[text()='Set All']",
+	"NexttoDistribution": "xpath:=://*[@id='nexttodist']/span[1]",
+	"Product_PL": "xpath:=://*[@id='pdtLine']",
+	"Product_Num": "xpath:=://*[@id='pdtNum']",
+	"Product_Add": "xpath:=://button[text()='Add product(s) to list']",
+	"Productcountrylist": "xpath:=://*[@id='ext-gen74']",
+	"Product_IPO_Radio" : "xpath:=://input[@id='ContractualRD']"
+	
+}
+

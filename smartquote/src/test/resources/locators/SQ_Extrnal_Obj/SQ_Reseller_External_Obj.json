@@ -1,0 +1,4 @@
+{
+	"Reseller_NEXTTOCUSTOMER": "xpath:=://button[text()='NEXT TO CUSTOMER']",
+	"Reseller_phonenumber" :"xpath:=://input[@name='sspPhone']"
+}

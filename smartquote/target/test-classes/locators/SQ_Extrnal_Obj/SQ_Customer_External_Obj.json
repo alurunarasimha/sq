@@ -1,0 +1,20 @@
+{
+	"NEWCUSTOMER(*)": "xpath:=://button[text()='NEW CUSTOMER']",
+	"NEWCUSTOMER(*NPF is mandatory)": "xpath:=://button[@id='ext-gen79']",
+	"custFullLegalname": "css:=:#ecFullNameExtId",
+	"custFirstName": "xpath:=://*[@id='ecFirstNameExtId']",
+	"custLastName": "xpath:=://*[@id='ecLastNameExtId']",
+	"custPhonenum": "xpath:=://*[@id='ecPhoneExtId']",
+	"custEmail": "xpath:=://*[@id='ecEmailExtId']",
+	"custStreetdetails": "css:=:#ecStreetExtId",
+	"custCity": "xpath:=://*[@id='ecCityExtId']",
+	"Btn_NexttoProducts": "css:=:#ext-gen31",
+	"Ex_Customers": "xpath:=://div[contains(@class,'x-grid3-col-customerName')]",
+	"slect_cust_name": "xpath:=://input[@id='txtcustname']",
+	"slect_cust_street": "xpath:=://input[@id='txtstreet']",
+	"slect_cust_city": "xpath:=://input[@id='txtcity']",
+	"slect_cust_pincode": "xpath:=://input[@id='txtpostcode']",
+	"slect_cust_search": "xpath:=://button[text()='Search']",
+	"select_ex_customers": "xpath:=://div[contains(@class,'x-grid3-cell-inner x-grid3-col-name')]"
+}
+

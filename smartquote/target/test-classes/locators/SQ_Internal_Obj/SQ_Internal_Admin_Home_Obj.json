@@ -1,0 +1,4 @@
+{
+	"searchSmartQuoteId": "xpath:=://input[@name='searchCriteria']",
+	"searchGobutton": "xpath:=://button[text()='Go ']"
+}

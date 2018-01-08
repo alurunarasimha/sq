@@ -1,0 +1,13 @@
+{
+	"Comment_list": "xpath:=://*[@id='quoteRequestFormId']/div[3]/div[2]/div[6]/p[2]/textarea",
+	"DealRegID": "xpath:=://*[@id='quoteRequestFormId']/div[3]/div[2]/div[8]/div[1]/div/p[2]/input",
+	"btnGrey": "xpath:=://*[@id='nexttopresub']/span",
+	"acceptedHpTermsAndConditions": "xpath:=://*[@id='content']/div/span[1]/input",
+	"submission": "xpath:=://*[@id='contentTabl']/td/div[9]/input",
+	"Savebutton": "xpath:=://*[@id='content']/div[3]/div[2]/a[1]/span",
+	"SmartQuoteid": "xpath:=://div[contains(@class,'infoBox')]/div[contains(@class,'wrapDiv')]/p[@class='bold' and contains(text(),'SQ-')]",
+	"SmartQuote_Status" : "xpath:=://div[contains(@class,'infoBox')]/div[contains(@class,'wrapDiv')]/p[@class='bold' and contains(text(),'Submitted')]",
+	"error_msg1" : "xpath:=://div[contains(@class,'ltFlt fullWidth vsp20')]/span[@id='errMsgsid']/div[@style='color: red;' and contains(text(),'Errors')]",
+	"error_msg2":"xpath:=://div[@class='ltFlt fullWidth vsp20']/font[@color='red']"
+
+}

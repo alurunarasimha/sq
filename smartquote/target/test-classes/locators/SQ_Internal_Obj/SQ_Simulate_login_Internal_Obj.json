@@ -1,0 +1,6 @@
+{
+	"searchhpuserid": "xpath:=://input[@name='HPPUserId']",
+	"searchcountrycode": "xpath:=://input[@name='CountryCode']",
+	"SearchhpInternalUser": "xpath:=://input[@name='hpInternalUser']",
+	"Internal_SQ_Login_btn": "xpath:=://input[@value='Simulate SQ Login >>']"
+}

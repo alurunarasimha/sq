@@ -1,0 +1,4 @@
+{
+	"NEXT_TO_QUOTE_CORE_DATA": "xpath:=://*[@id='content']/div[5]/a[2]/span",
+	"Distributor_list": "xpath:=://*[@id='combo0']"
+}

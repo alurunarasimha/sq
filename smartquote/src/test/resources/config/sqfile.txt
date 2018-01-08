@@ -1,0 +1,21 @@
+Transaction Successful
+Quote ID: 1876683
+Deal Number: 30049075
+Deal Distribution Code: No Quotes Sent
+Deal Progression Code: Unauthorized
+Deal BDME Approval Code: Not approved for distribution
+Deal Risk: Low Risk
+Process Start Date Time: 06-Sep-2017 17:09:00
+Process End Date Time: 06-Sep-2017 17:09:180
+Warning Messages:
+PKG: Deal Risk Errors :
+PKG: Gypsy price is lesser than smart quote price for the product : L1975A HP Scanjet 8270 Document Flatbed Scanner Gypsy Price : 50926.56 , SmartQuote Price : 65477
+PKG: No Errors
+Info Messages:
+MDCP Customer OrgID "113483321", SiteID "22230894", InstanceID "24627206" Details (PADLAM MAJHI, IN, UMERKOTE NABARANGPUR) was found in the Eclipse DB and updated from MDCP
+Customer ("Y10090861348") with MDCPOrgID "113483321", MDCPOtherPartyID "22230894", MDCPInstanceID "24627206" is being used. Details (Name:PADLAM MAJHI, Country:IN, Address:UMERKOTE NABARANGPUR)
+Reseller A with PProID="" and ContractID="AG442" and ResellerID="94671628" was found
+Reseller B with PProID="" and ContractID="WG4PQ" and ResellerID="1407782" was found
+C4 cost found for product "L1975A" : 24463.19
+PKG: Tenant ID Dervied as per the products added on a deal is : HPI, Mixed Tenant Code :C
+PKG: No Errors

@@ -1,0 +1,14 @@
+{
+	"searchParterProId": "xpath:=://input[@name='PartnerProId']",
+	"searchcountrycode": "xpath:=://input[@name='CountryCode']",
+	"SearchhpInternalUser": "id:=:hpInternalUser",
+	"Ext_SQ_Login_btn": "xpath:=://input[@value='Simulate SQ Login >>']",
+	"search_email" : "xpath:=://input[@name='email']",
+	"username":"xpath:=://input[@id='USER']",
+	"password":"xpath:=://input[@id='PASSWORD']",
+	"sing_in":"xpath:=://input[@id='sign-in-btn']",
+	"myworkspace": "xpath:=://ul[contains(@class,'megamenu clearfix')]/li[1]/span",
+	"requestdeal": "xpath:=://ul/li[2]/a[contains(@href,'https://partner-itg.hp.com/group/upp-apj/request-a-quote')]",
+	"Gobutton" :"xpath:=://span[contains(@class,'btn_label') and contains(text(),'Go')]"
+	
+}
